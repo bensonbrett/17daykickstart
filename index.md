@@ -1,5 +1,5 @@
 # 17 Day Kick Start Notes
 
-- [Meal Plans](meals)
-- [Recipes](recipies)
-- [Shopping List](shoppinglist)
+- [Meal Plans](meals.md)
+- [Recipes](recipies.md)
+- [Shopping List](shoppinglist.md)
