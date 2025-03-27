@@ -1,3 +1,7 @@
+layout: default
+title: "Grilled Chicken with Fresh Salsa Recipe"
+---
+
 # Grilled Chicken with Fresh Salsa Recipe
 
 ## Ingredients
