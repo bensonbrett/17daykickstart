@@ -1,6 +1,10 @@
 # 17-Day Kickstart Diet: Complete Chronological Plan, Nutritional Logging & Online Ordering Manual
 *(For family of 4)*
 
+## Credits & Acknowledgements
+
+Special thanks to **Dr. Mike Moreno** for his pioneering work on the Kickstart Diet. His book, [*The Day Kick-Start Diet*](https://www.amazon.com/dp/B08VJKWGK3), has been a major source of inspiration for this guide. Be sure to check it out on Amazon for more insights on healthy living!
+
 ## Overview
 This manual provides a complete 17-day plan for the Kickstart Diet with Mexican-inspired flavors. It is organized chronologically with clear instructions on when to order groceries (bulk and perishables) and includes detailed portion sizes (in grams) plus sample nutritional “labels” for each meal. Use this guide to easily log your meals in Samsung Health and to ensure you keep ingredients fresh.
 
@@ -319,6 +323,4 @@ To streamline your daily routine, follow this prepping schedule:
 
 ---
 
-## Credits & Acknowledgements
 
-Special thanks to **Dr. Mike Moreno** for his pioneering work on the Kickstart Diet. His book, [*The Day Kick-Start Diet*](https://www.amazon.com/dp/B08VJKWGK3), has been a major source of inspiration for this guide. Be sure to check it out on Amazon for more insights on healthy living!
