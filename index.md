@@ -2,7 +2,7 @@
 *(For 2 Adults, 1 12‑Year‑Old Male, and 1 9‑Year‑Old Female)*
 
 ## Overview
-This manual provides a complete 17-day plan for the Kickstart Diet with liver-friendly, Mexican-inspired flavors. It is organized chronologically with clear instructions on when to order groceries (bulk and perishables) and includes detailed portion sizes (in grams) plus sample nutritional “labels” for each meal. Use this guide to easily log your meals in Samsung Health and to ensure you keep ingredients fresh.
+This manual provides a complete 17-day plan for the Kickstart Diet with Mexican-inspired flavors. It is organized chronologically with clear instructions on when to order groceries (bulk and perishables) and includes detailed portion sizes (in grams) plus sample nutritional “labels” for each meal. Use this guide to easily log your meals in Samsung Health and to ensure you keep ingredients fresh.
 
 > **Note:** All quantities and nutrition values are estimated for a family of 4. Adjust as needed based on your specific brands, preferences, and portion sizes.
 
@@ -72,7 +72,7 @@ This manual provides a complete 17-day plan for the Kickstart Diet with liver-fr
 ---
 
 ### **Phase 1: 3-Day “Scrub” (Days 1–3)**
-*Focus: Detox with low-sugar, nutrient-dense foods that support liver function.*
+*Focus: Detox with low-sugar and nutriet dense foods.*
 
 #### Daily Menu (Repeat Each Day)
 
@@ -185,7 +185,7 @@ This manual provides a complete 17-day plan for the Kickstart Diet with liver-fr
 ---
 
 ### **Phase 2: 4-Day “Soak” (Days 4–7)**
-*Focus: Introduce more variety while maintaining liver-friendly ingredients.*
+*Focus: Introduce more variety while maintaining nutrtional goals.*
 
 #### Daily Menu (Repeat Each Day)
 
