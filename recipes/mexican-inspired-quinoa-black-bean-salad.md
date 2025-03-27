@@ -22,16 +22,16 @@
 - Approximately 350 g per serving
 
 ## Sample Nutritional Information (per serving)
-| Nutrient         | Amount    |
-|------------------|-----------|
-| Calories         | ~400 kcal |
-| Protein          | ~12 g     |
-| Carbohydrates    | ~60 g     |
-| Fat              | ~10 g     |
-| Fiber            | ~12 g     |
-| Vitamin C        | ~50 mg    |
-| Calcium          | ~80 mg    |
-| Iron             | ~3 mg     |
+| Nutrient      | Amount    |
+|---------------|-----------|
+| Calories      | ~400 kcal |
+| Protein       | ~12 g     |
+| Carbohydrates | ~60 g     |
+| Fat           | ~10 g     |
+| Fiber         | ~12 g     |
+| Vitamin C     | ~50 mg    |
+| Calcium       | ~80 mg    |
+| Iron          | ~3 mg     |
 
 ## Prep Tips
 - Cook quinoa in bulk and refrigerate in portions.

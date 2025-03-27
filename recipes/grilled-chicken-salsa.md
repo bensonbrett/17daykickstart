@@ -23,16 +23,16 @@
 - Approximately 350 g per serving
 
 ## Sample Nutritional Information (per serving)
-| Nutrient         | Amount    |
-|------------------|-----------|
-| Calories         | ~400 kcal |
-| Protein          | ~30 g     |
-| Carbohydrates    | ~20 g     |
-| Fat              | ~15 g     |
-| Fiber            | ~6 g      |
-| Vitamin C        | ~40 mg    |
-| Calcium          | ~80 mg    |
-| Iron             | ~2 mg     |
+| Nutrient      | Amount    |
+|---------------|-----------|
+| Calories      | ~400 kcal |
+| Protein       | ~30 g     |
+| Carbohydrates | ~20 g     |
+| Fat           | ~15 g     |
+| Fiber         | ~6 g      |
+| Vitamin C     | ~40 mg    |
+| Calcium       | ~80 mg    |
+| Iron          | ~2 mg     |
 
 ## Prep Tips
 - Marinate the chicken a few hours in advance with lime juice, garlic, and herbs.

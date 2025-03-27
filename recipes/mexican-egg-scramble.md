@@ -22,17 +22,17 @@
 - Approximately 250 g per serving
 
 ## Sample Nutritional Information (per serving)
-| Nutrient         | Amount    |
-|------------------|-----------|
-| Calories         | ~300 kcal |
-| Protein          | ~18 g     |
-| Carbohydrates    | ~15 g     |
-| Fat              | ~18 g     |
-| Fiber            | ~4 g      |
-| Vitamin A        | ~2000 IU  |
-| Vitamin C        | ~30 mg    |
-| Calcium          | ~150 mg   |
-| Iron             | ~2 mg     |
+| Nutrient      | Amount    |
+|---------------|-----------|
+| Calories      | ~300 kcal |
+| Protein       | ~18 g     |
+| Carbohydrates | ~15 g     |
+| Fat           | ~18 g     |
+| Fiber         | ~4 g      |
+| Vitamin A     | ~2000 IU  |
+| Vitamin C     | ~30 mg    |
+| Calcium       | ~150 mg   |
+| Iron          | ~2 mg     |
 
 ## Prep Tips
 - Dice tomatoes, onions, and mince garlic in advance.

@@ -65,7 +65,7 @@ This manual provides a complete 17-day plan for the Kickstart Diet with Mexican-
   - Tomatoes (for salsa & salads): Optional, 8–10 medium
   - Red onions (for salsa & salads): Optional, 4–6 medium
 - **Frozen Vegetables (For Cooked Dishes):**
-  - Frozen broccoli & cauliflower: 4–6 bags (can substitute for fresh; use in steamed dishes)
+  - Frozen broccoli & cauliflower: 4–6 bags
 - **Proteins (Fresh Option for Phase 1):**
   - Fresh wild salmon: 4–8 fillets (if preferred over frozen)
 
@@ -79,15 +79,72 @@ This manual provides a complete 17-day plan for the Kickstart Diet with Mexican-
 1. **Breakfast – [Green Detox Smoothie Recipe](recipes/green-detox-smoothie.md)**
    - **Portion Size:** ~350 g total
 2. **Mid-Morning Snack – Mixed Berries**
-   - **Portion Size:** ~150 g
+   - **Portion Size:** ~150 g  
+   - **Nutrition Information:**
+
+     | Nutrient      | Amount      |
+     |---------------|-------------|
+     | Calories      | ~80 kcal    |
+     | Protein       | ~1 g        |
+     | Carbohydrates | ~20 g       |
+     | Sugars        | ~15 g       |
+     | Fat           | ~0.5 g      |
+     | Fiber         | ~4 g        |
+     | Vitamin C     | ~25 mg      |
+     | Calcium       | ~20 mg      |
+     | Iron          | ~0.5 mg     |
+
 3. **Lunch – Mixed Greens Salad**
+   - **Ingredients:** Arugula, romaine, dandelion greens, shredded carrots, thin beet slices, avocado; dressed with olive oil, lemon juice, a pinch of turmeric, and black pepper.
    - **Portion Size:** ~300 g  
-     *(Basic salad instructions provided in this manual.)*
+   - **Nutrition Information:**
+
+     | Nutrient      | Amount      |
+     |---------------|-------------|
+     | Calories      | ~200 kcal   |
+     | Protein       | ~5 g        |
+     | Carbohydrates | ~25 g       |
+     | Sugars        | ~8 g        |
+     | Fat           | ~12 g       |
+     | Fiber         | ~6 g        |
+     | Vitamin A     | ~4000 IU    |
+     | Vitamin C     | ~45 mg      |
+     | Calcium       | ~150 mg     |
+     | Iron          | ~1.5 mg     |
+
 4. **Afternoon Snack – Cucumber & Jicama Sticks**
-   - **Portion Size:** ~200 g
-5. **Dinner – [Steamed Wild Salmon with Veggies Recipe](#)*
+   - **Portion Size:** ~200 g  
+   - **Nutrition Information:**
+
+     | Nutrient      | Amount      |
+     |---------------|-------------|
+     | Calories      | ~70 kcal    |
+     | Protein       | ~2 g        |
+     | Carbohydrates | ~16 g       |
+     | Sugars        | ~8 g        |
+     | Fat           | ~0.5 g      |
+     | Fiber         | ~4 g        |
+     | Vitamin C     | ~15 mg      |
+     | Calcium       | ~30 mg      |
+     | Iron          | ~0.5 mg     |
+
+5. **Dinner – Steamed Wild Salmon with Veggies**
    - **Ingredients:** 250 g wild salmon, 200 g broccoli & cauliflower (fresh or frozen)
    - **Portion Size:** ~450 g total
+   - **Nutrition Information:**
+
+     | Nutrient      | Amount      |
+     |---------------|-------------|
+     | Calories      | ~450 kcal   |
+     | Protein       | ~35 g       |
+     | Carbohydrates | ~25 g       |
+     | Fat           | ~20 g       |
+     | Fiber         | ~8 g        |
+     | Omega-3s      | Significant |
+     | Vitamin D     | ~10 µg      |
+     | Vitamin B12   | ~4 µg       |
+     | Calcium       | ~100 mg     |
+     | Iron          | ~1.5 mg     |
 
 *Follow these meals for Days 1–3 using your Pre-Scrub Order ingredients.*
 
@@ -119,7 +176,17 @@ This manual provides a complete 17-day plan for the Kickstart Diet with Mexican-
 1. **Breakfast – [Mexican Egg Scramble Recipe](recipes/mexican-egg-scramble.md)**
    - **Portion Size:** ~250 g total
 2. **Mid-Morning Snack – Fresh Berries + Walnuts**
-   - **Portion Size:** 150 g berries + 30 g walnuts
+   - **Portion Size:** 150 g berries + 30 g walnuts  
+   - **Nutrition Information:**
+
+     | Nutrient      | Amount      |
+     |---------------|-------------|
+     | Calories      | ~250 kcal   |
+     | Protein       | ~4 g        |
+     | Carbohydrates | ~20 g       |
+     | Fat           | ~18 g       |
+     | Fiber         | ~5 g        |
+
 3. **Lunch – [Mexican-Inspired Quinoa & Black Bean Salad Recipe](recipes/mexican-inspired-quinoa-black-bean-salad.md)**
    - **Portion Size:** ~350 g total
 4. **Afternoon Snack – Carrot or Jicama Sticks**
@@ -162,7 +229,7 @@ This manual provides a complete 17-day plan for the Kickstart Diet with Mexican-
 **Breakfast Options:**
 - **[Mexican Egg Scramble Recipe](recipes/mexican-egg-scramble.md)**
   - **Portion Size:** ~250 g total
-- **[Greek Yogurt Bowl Recipe](#)*
+- **[Greek Yogurt Bowl Recipe](recipes/greek-yogurt-bowl.md)**
   - **Portion Size:** ~200 g yogurt + 50 g toppings
 
 **Morning Snack:**  
@@ -178,9 +245,9 @@ This manual provides a complete 17-day plan for the Kickstart Diet with Mexican-
 - Veggie Sticks with Hummus (≈150 g total)
 
 **Dinner Options:**
-- **[Lean Beef/Turkey Fajitas Recipe](#)*
+- **[Lean Beef/Turkey Fajitas Recipe](recipes/lean-beef-turkey-fajitas.md)**
   - **Portion Size:** ~350 g total
-- **[Mexican-Style Stuffed Peppers Recipe](#)*
+- **[Mexican-Style Stuffed Peppers Recipe](recipes/mexican-stuffed-peppers.md)**
   - **Portion Size:** ~350 g total
 
 **Evening Snack (Optional):**  

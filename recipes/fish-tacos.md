@@ -21,15 +21,15 @@
 - Approximately 300 g per serving
 
 ## Sample Nutritional Information (per serving)
-| Nutrient         | Amount    |
-|------------------|-----------|
-| Calories         | ~350 kcal |
-| Protein          | ~25 g     |
-| Carbohydrates    | ~30 g     |
-| Fat              | ~12 g     |
-| Fiber            | ~6 g      |
-| Vitamin C        | ~40 mg    |
-| Calcium          | ~80 mg    |
+| Nutrient      | Amount    |
+|---------------|-----------|
+| Calories      | ~350 kcal |
+| Protein       | ~25 g     |
+| Carbohydrates | ~30 g     |
+| Fat           | ~12 g     |
+| Fiber         | ~6 g      |
+| Vitamin C     | ~40 mg    |
+| Calcium       | ~80 mg    |
 
 ## Prep Tips
 - Pre-chop red cabbage and dice avocado, tomatoes, and red onion in advance.

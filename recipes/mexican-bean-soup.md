@@ -22,15 +22,15 @@
 - Approximately 350 g per serving
 
 ## Sample Nutritional Information (per serving)
-| Nutrient         | Amount    |
-|------------------|-----------|
-| Calories         | ~300 kcal |
-| Protein          | ~15 g     |
-| Carbohydrates    | ~45 g     |
-| Fat              | ~6 g      |
-| Fiber            | ~10 g     |
-| Vitamin C        | ~30 mg    |
-| Calcium          | ~60 mg    |
+| Nutrient      | Amount    |
+|---------------|-----------|
+| Calories      | ~300 kcal |
+| Protein       | ~15 g     |
+| Carbohydrates | ~45 g     |
+| Fat           | ~6 g      |
+| Fiber         | ~10 g     |
+| Vitamin C     | ~30 mg    |
+| Calcium       | ~60 mg    |
 
 ## Prep Tips
 - Dice onions, garlic, and tomatoes in advance.

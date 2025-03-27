@@ -17,18 +17,18 @@
 - Approximately 350 g per serving
 
 ## Sample Nutritional Information (per serving)
-| Nutrient         | Amount    |
-|------------------|-----------|
-| Calories         | ~250 kcal |
-| Protein          | ~6 g      |
-| Carbohydrates    | ~45 g     |
-| Sugars           | ~15 g     |
-| Fat              | ~8 g      |
-| Fiber            | ~7 g      |
-| Vitamin A        | ~3500 IU  |
-| Vitamin C        | ~60 mg    |
-| Calcium          | ~250 mg   |
-| Iron             | ~2 mg     |
+| Nutrient      | Amount    |
+|---------------|-----------|
+| Calories      | ~250 kcal |
+| Protein       | ~6 g      |
+| Carbohydrates | ~45 g     |
+| Sugars        | ~15 g     |
+| Fat           | ~8 g      |
+| Fiber         | ~7 g      |
+| Vitamin A     | ~3500 IU  |
+| Vitamin C     | ~60 mg    |
+| Calcium       | ~250 mg   |
+| Iron          | ~2 mg     |
 
 ## Prep Tips
 - Pre-wash and dry the spinach and kale.
