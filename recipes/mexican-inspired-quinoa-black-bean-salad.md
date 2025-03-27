@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Mexcian-Inspired Quinoa & Black Bean Salad Recipe"
+---
+
 # Mexican-Inspired Quinoa & Black Bean Salad Recipe
 
 ## Ingredients
@@ -22,6 +27,7 @@
 - Approximately 350 g per serving
 
 ## Sample Nutritional Information (per serving)
+
 | Nutrient      | Amount    |
 | ------------- | --------- |
 | Calories      | ~400 kcal |
