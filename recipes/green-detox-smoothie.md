@@ -22,6 +22,7 @@ title: "Green Detox Smoothie Recipe"
 - Approximately 350 g per serving
 
 ## Sample Nutritional Information (per serving)
+
 | Nutrient      | Amount    |
 | ------------- | --------- |
 | Calories      | ~250 kcal |
