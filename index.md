@@ -488,5 +488,5 @@ To streamline your daily routine, follow this prepping schedule:
 
 ## Credits & Acknowledgements
 
-Special thanks to **Dr. Mike Moreno** for his pioneering work on the Kickstart Diet. His book, [*The Day Kick-Start Diet*](https://www.amazon.com/dp/0316024601), has been a major source of inspiration for this guide. Be sure to check it out on Amazon for more insights on healthy living!
+Special thanks to **Dr. Mike Moreno** for his pioneering work on the Kickstart Diet. His book, [*The Day Kick-Start Diet*](https://www.amazon.com/dp/B08VJKWGK3), has been a major source of inspiration for this guide. Be sure to check it out on Amazon for more insights on healthy living!
 
