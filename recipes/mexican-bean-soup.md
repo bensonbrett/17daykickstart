@@ -1,3 +1,4 @@
+---
 layout: default
 title: "Mexican Bean Soup Recipe"
 ---
