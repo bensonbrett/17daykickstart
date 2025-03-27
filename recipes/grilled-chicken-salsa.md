@@ -13,10 +13,10 @@
 - Salt, pepper, and garlic powder to taste
 
 ## Instructions
-1. Season the chicken breast with salt, pepper, and garlic powder. Grill until fully cooked (about 6–8 minutes per side).
-2. In a bowl, combine diced tomatoes, avocado, red onion, cilantro, and lime juice to make the salsa.
-3. Steam the broccoli and cauliflower if not already prepared.
-4. Slice the grilled chicken and serve over a bed of mixed greens and steamed vegetables. Top with fresh salsa.
+1. Season the chicken with salt, pepper, and garlic powder. Grill until fully cooked (6–8 minutes per side).
+2. Combine diced tomatoes, avocado, red onion, cilantro, and lime juice to make the salsa.
+3. Steam the broccoli and cauliflower if not prepped.
+4. Slice the chicken and serve over mixed greens and steamed vegetables; top with salsa.
 5. Enjoy warm.
 
 ## Portion Size
@@ -24,7 +24,7 @@
 
 ## Sample Nutritional Information (per serving)
 | Nutrient      | Amount    |
-|---------------|-----------|
+| ------------- | --------- |
 | Calories      | ~400 kcal |
 | Protein       | ~30 g     |
 | Carbohydrates | ~20 g     |
@@ -35,6 +35,6 @@
 | Iron          | ~2 mg     |
 
 ## Prep Tips
-- Marinate the chicken a few hours in advance with lime juice, garlic, and herbs.
-- Dice salsa ingredients and store in a container in the fridge.
-- Steam vegetables in advance and reheat when ready to serve.
+- Marinate the chicken a few hours in advance.
+- Dice salsa ingredients in advance; store in an airtight container in the fridge.
+- Steam vegetables ahead of time; reheat before serving.

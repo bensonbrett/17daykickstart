@@ -15,15 +15,15 @@
 1. In a large pot, sauté diced onions and garlic until soft.
 2. Add diced tomatoes, black beans, chili powder, and cumin; stir for 1 minute.
 3. Pour in the vegetable broth and bring to a simmer.
-4. Let the soup simmer for 15–20 minutes.
-5. Adjust seasoning with salt and pepper, garnish with fresh cilantro if desired.
+4. Let simmer for 15–20 minutes.
+5. Adjust seasoning with salt and pepper; garnish with cilantro if desired.
 
 ## Portion Size
 - Approximately 350 g per serving
 
 ## Sample Nutritional Information (per serving)
 | Nutrient      | Amount    |
-|---------------|-----------|
+| ------------- | --------- |
 | Calories      | ~300 kcal |
 | Protein       | ~15 g     |
 | Carbohydrates | ~45 g     |

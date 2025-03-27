@@ -7,9 +7,9 @@
 - 10 g ground flaxseed
 
 ## Instructions
-1. Place the Greek yogurt in a bowl.
+1. Place Greek yogurt in a bowl.
 2. Top with blueberries.
-3. Drizzle with organic honey.
+3. Drizzle with honey.
 4. Sprinkle ground flaxseed on top.
 5. Mix slightly and enjoy.
 
@@ -18,7 +18,7 @@
 
 ## Sample Nutritional Information (per serving)
 | Nutrient      | Amount     |
-|---------------|------------|
+| ------------- | ---------- |
 | Calories      | ~300 kcal  |
 | Protein       | ~15 g      |
 | Carbohydrates | ~35 g      |

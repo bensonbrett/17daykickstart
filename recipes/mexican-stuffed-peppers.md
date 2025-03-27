@@ -13,10 +13,10 @@
 
 ## Instructions
 1. Preheat the oven to 375°F (190°C).
-2. In a bowl, mix the cooked quinoa, black beans, diced tomatoes, onions, chili powder, cumin, salt, and pepper.
-3. Stuff the bell pepper halves with the quinoa mixture.
-4. If desired, sprinkle shredded cheese on top.
-5. Place in a baking dish and bake for 20–25 minutes, until the peppers are tender.
+2. In a bowl, mix quinoa, black beans, tomatoes, onions, chili powder, cumin, salt, and pepper.
+3. Stuff the bell pepper halves with the mixture.
+4. Sprinkle cheese on top if desired.
+5. Place in a baking dish; bake for 20–25 minutes until peppers are tender.
 6. Serve warm.
 
 ## Portion Size
@@ -24,7 +24,7 @@
 
 ## Sample Nutritional Information (per serving)
 | Nutrient      | Amount     |
-|---------------|------------|
+| ------------- | ---------- |
 | Calories      | ~400 kcal  |
 | Protein       | ~15 g      |
 | Carbohydrates | ~55 g      |
@@ -35,4 +35,4 @@
 
 ## Prep Tips
 - Prepare quinoa and beans ahead of time.
-- Dice the vegetables in advance and store in airtight containers.
+- Dice vegetables in advance; store in airtight containers.

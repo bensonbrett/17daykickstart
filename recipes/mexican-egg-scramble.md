@@ -14,7 +14,7 @@
 ## Instructions
 1. In a bowl, whisk the eggs with salt, pepper, chili powder, and cumin.
 2. Heat a non-stick pan over medium heat; add diced onions and garlic, and sauté until softened.
-3. Add the diced tomatoes and spinach, cooking for another 1–2 minutes.
+3. Add the diced tomatoes and spinach; cook for 1–2 minutes.
 4. Pour in the eggs and scramble until cooked through.
 5. Serve on its own or with a small whole wheat tortilla.
 
@@ -23,7 +23,7 @@
 
 ## Sample Nutritional Information (per serving)
 | Nutrient      | Amount    |
-|---------------|-----------|
+| ------------- | --------- |
 | Calories      | ~300 kcal |
 | Protein       | ~18 g     |
 | Carbohydrates | ~15 g     |

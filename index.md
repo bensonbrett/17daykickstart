@@ -78,6 +78,7 @@ This manual provides a complete 17-day plan for the Kickstart Diet with Mexican-
 
 1. **Breakfast – [Green Detox Smoothie Recipe](recipes/green-detox-smoothie.md)**
    - **Portion Size:** ~350 g total
+
 2. **Mid-Morning Snack – Mixed Berries**
    - **Portion Size:** ~150 g  
    - **Nutrition Information:**
@@ -130,21 +131,21 @@ This manual provides a complete 17-day plan for the Kickstart Diet with Mexican-
 
 5. **Dinner – Steamed Wild Salmon with Veggies**
    - **Ingredients:** 250 g wild salmon, 200 g broccoli & cauliflower (fresh or frozen)
-   - **Portion Size:** ~450 g total
+   - **Portion Size:** ~450 g total  
    - **Nutrition Information:**
 
-     | Nutrient      | Amount      |
-     |---------------|-------------|
-     | Calories      | ~450 kcal   |
-     | Protein       | ~35 g       |
-     | Carbohydrates | ~25 g       |
-     | Fat           | ~20 g       |
-     | Fiber         | ~8 g        |
-     | Omega-3s      | Significant |
-     | Vitamin D     | ~10 µg      |
-     | Vitamin B12   | ~4 µg       |
-     | Calcium       | ~100 mg     |
-     | Iron          | ~1.5 mg     |
+     | Nutrient      | Amount       |
+     |---------------|--------------|
+     | Calories      | ~450 kcal    |
+     | Protein       | ~35 g        |
+     | Carbohydrates | ~25 g        |
+     | Fat           | ~20 g        |
+     | Fiber         | ~8 g         |
+     | Omega-3s      | Significant  |
+     | Vitamin D     | ~10 µg       |
+     | Vitamin B12   | ~4 µg        |
+     | Calcium       | ~100 mg      |
+     | Iron          | ~1.5 mg      |
 
 *Follow these meals for Days 1–3 using your Pre-Scrub Order ingredients.*
 
@@ -175,6 +176,7 @@ This manual provides a complete 17-day plan for the Kickstart Diet with Mexican-
 
 1. **Breakfast – [Mexican Egg Scramble Recipe](recipes/mexican-egg-scramble.md)**
    - **Portion Size:** ~250 g total
+
 2. **Mid-Morning Snack – Fresh Berries + Walnuts**
    - **Portion Size:** 150 g berries + 30 g walnuts  
    - **Nutrition Information:**
@@ -189,8 +191,10 @@ This manual provides a complete 17-day plan for the Kickstart Diet with Mexican-
 
 3. **Lunch – [Mexican-Inspired Quinoa & Black Bean Salad Recipe](recipes/mexican-inspired-quinoa-black-bean-salad.md)**
    - **Portion Size:** ~350 g total
+
 4. **Afternoon Snack – Carrot or Jicama Sticks**
    - **Portion Size:** ~150 g
+
 5. **Dinner – [Grilled Chicken with Fresh Salsa Recipe](recipes/grilled-chicken-salsa.md)**
    - **Portion Size:** ~350 g total
 
@@ -233,7 +237,17 @@ This manual provides a complete 17-day plan for the Kickstart Diet with Mexican-
   - **Portion Size:** ~200 g yogurt + 50 g toppings
 
 **Morning Snack:**  
-- Fruit or Almonds (≈150 g fruit or 30 g almonds)
+- Fruit or Almonds (≈150 g fruit or 30 g almonds)  
+  - *Example Nutrition Information for Fruit:*
+
+    | Nutrient      | Amount      |
+    |---------------|-------------|
+    | Calories      | ~80-100 kcal|
+    | Protein       | ~1 g        |
+    | Carbohydrates | ~20 g       |
+    | Fat           | ~0.5 g      |
+    | Fiber         | ~3 g        |
+    | Vitamin C     | ~30 mg      |
 
 **Lunch Options:**
 - **[Fish Tacos (Lettuce Wrap Style) Recipe](recipes/fish-tacos.md)**

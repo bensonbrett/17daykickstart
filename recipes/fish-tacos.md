@@ -13,16 +13,16 @@
 
 ## Instructions
 1. Season the fish with salt, pepper, and a pinch of cumin. Grill or pan-sear until cooked through.
-2. In a bowl, combine avocado, tomatoes, red onion, cilantro, and lime juice to create a salsa.
-3. Place the cooked fish on a lettuce leaf and top with the salsa and shredded cabbage.
-4. Fold and enjoy as a taco.
+2. In a bowl, combine avocado, tomatoes, red onion, cilantro, and lime juice to form a salsa.
+3. Place the cooked fish on a lettuce leaf, top with the salsa and shredded cabbage.
+4. Fold and serve as a taco.
 
 ## Portion Size
 - Approximately 300 g per serving
 
 ## Sample Nutritional Information (per serving)
 | Nutrient      | Amount    |
-|---------------|-----------|
+| ------------- | --------- |
 | Calories      | ~350 kcal |
 | Protein       | ~25 g     |
 | Carbohydrates | ~30 g     |

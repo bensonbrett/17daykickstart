@@ -13,7 +13,7 @@
 - Salt and pepper to taste
 
 ## Instructions
-1. In a large bowl, combine cooked quinoa, black beans, bell peppers, corn, red onion, and avocado.
+1. In a large bowl, combine quinoa, black beans, bell peppers, corn, red onion, and avocado.
 2. In a small bowl, whisk together lime juice, olive oil, chili powder, salt, and pepper.
 3. Pour the dressing over the salad and toss gently to combine.
 4. Serve chilled or at room temperature.
@@ -23,7 +23,7 @@
 
 ## Sample Nutritional Information (per serving)
 | Nutrient      | Amount    |
-|---------------|-----------|
+| ------------- | --------- |
 | Calories      | ~400 kcal |
 | Protein       | ~12 g     |
 | Carbohydrates | ~60 g     |
@@ -36,4 +36,4 @@
 ## Prep Tips
 - Cook quinoa in bulk and refrigerate in portions.
 - Dice vegetables ahead of time; store in sealed containers.
-- Prepare the dressing in advance and mix just before serving.
+- Prepare the dressing in advance; mix just before serving.

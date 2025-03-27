@@ -12,9 +12,9 @@
 
 ## Instructions
 1. Toss the meat with olive oil, cumin, chili powder, salt, and pepper.
-2. Heat a skillet over medium-high heat and cook the meat until browned and cooked through.
-3. Add the sliced bell peppers and onions; sauté until tender.
-4. Serve over brown rice or wrapped in lettuce leaves.
+2. Heat a skillet over medium-high heat; cook meat until browned and cooked through.
+3. Add bell peppers and onions; sauté until tender.
+4. Serve over brown rice or in lettuce wraps.
 5. Enjoy immediately.
 
 ## Portion Size
@@ -22,7 +22,7 @@
 
 ## Sample Nutritional Information (per serving)
 | Nutrient      | Amount     |
-|---------------|------------|
+| ------------- | ---------- |
 | Calories      | ~450 kcal  |
 | Protein       | ~35 g      |
 | Carbohydrates | ~40 g      |
@@ -32,5 +32,5 @@
 | Calcium       | ~90 mg     |
 
 ## Prep Tips
-- Slice the meat and vegetables in advance.
-- Marinate the meat with the spices and olive oil for extra flavor.
+- Slice meat and vegetables in advance.
+- Marinate the meat with spices and olive oil for extra flavor.
