@@ -1,5 +1,5 @@
 # 17-Day Kickstart Diet: Complete Chronological Plan, Nutritional Logging & Online Ordering Manual
-*(For 2 Adults, 1 12‑Year‑Old Male, and 1 9‑Year‑Old Female)*
+*(For family of 4)*
 
 ## Overview
 This manual provides a complete 17-day plan for the Kickstart Diet with Mexican-inspired flavors. It is organized chronologically with clear instructions on when to order groceries (bulk and perishables) and includes detailed portion sizes (in grams) plus sample nutritional “labels” for each meal. Use this guide to easily log your meals in Samsung Health and to ensure you keep ingredients fresh.
