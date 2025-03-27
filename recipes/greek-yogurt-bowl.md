@@ -19,7 +19,7 @@
 ## Sample Nutritional Information (per serving)
 
 | Nutrient      | Amount     |
-|-------------- |------------|
+| ------------- | ---------- |
 | Calories      | ~300 kcal  |
 | Protein       | ~15 g      |
 | Carbohydrates | ~35 g      |
