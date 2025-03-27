@@ -1,3 +1,7 @@
+layout: default
+title: "Mexican Bean Soup Recipe"
+---
+
 # Mexican Bean Soup Recipe
 
 ## Ingredients
@@ -22,6 +26,7 @@
 - Approximately 350 g per serving
 
 ## Sample Nutritional Information (per serving)
+
 | Nutrient      | Amount    |
 | ------------- | --------- |
 | Calories      | ~300 kcal |
