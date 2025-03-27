@@ -1,3 +1,7 @@
+layout: default
+title: "Lean Beef/Turkey Fajitas Recipe"
+---
+
 # Lean Beef/Turkey Fajitas Recipe
 
 ## Ingredients
@@ -21,6 +25,7 @@
 - Approximately 350 g per serving
 
 ## Sample Nutritional Information (per serving)
+
 | Nutrient      | Amount     |
 | ------------- | ---------- |
 | Calories      | ~450 kcal  |
