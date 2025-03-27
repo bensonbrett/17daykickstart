@@ -22,6 +22,7 @@
 - Approximately 250 g per serving
 
 ## Sample Nutritional Information (per serving)
+
 | Nutrient      | Amount    |
 | ------------- | --------- |
 | Calories      | ~300 kcal |
