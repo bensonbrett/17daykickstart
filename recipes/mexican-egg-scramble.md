@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Mexican Egg Scramble Recipe"
+---
+
 # Mexican Egg Scramble Recipe
 
 ## Ingredients
