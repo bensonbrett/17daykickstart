@@ -438,11 +438,41 @@ This manual provides a complete 17-day plan for the Kickstart Diet with Mexican-
 
 ---
 
+## Prepping Schedule & Timeline
+
+To streamline your daily routine, follow this prepping schedule:
+
+- **Day 0 (1–2 Days Before Day 1):**
+  - **Batch Wash & Prep Raw Produce for Phase 1:**
+    - Rinse and dry leafy greens; store in airtight bags.
+    - Wash cucumbers, jicama, and beets. Slice cucumbers and jicama into sticks.
+    - Wash mixed berries and apples; do not cut.
+  - **Pre-Make Portions:**
+    - Measure out smoothie ingredients (spinach, kale, chopped apple, ginger) and store in freezer bags for quick blending.
+    - Pre-portion dressing ingredients (olive oil, lemon juice, turmeric, black pepper) in a small jar.
+
+- **Day 3 (End of Phase 1 / Early Day 4):**
+  - **Pre-Chop for Phase 2:**
+    - Chop tomatoes, red onions, and cilantro for salsa.
+    - Pre-chop vegetables (spinach, diced tomatoes, onions) for omelets.
+    - Portion fruits (grapefruits, extra berries) for snacks.
+  - **Store** in airtight containers in the fridge.
+
+- **Day 7 (Transition to Phase 3):**
+  - **Pre-Prep for Phase 3:**
+    - Pre-chop vegetables for tacos, fajitas, and stuffed peppers: slice bell peppers, dice tomatoes, and chop lettuce.
+    - Pre-portion proteins if needed (marinate lean beef/turkey or fish in lime and garlic).
+    - Batch-cook extra grains (quinoa, brown rice) and portion them out for several meals.
+  - **Store** these items in the fridge for easy assembly during Phase 3.
+
+*Following this schedule minimizes daily chopping and helps you save time throughout the 17 days.*
+
 ## Final Notes
 - **Ordering Frequency:**
   - **Pre-Scrub Order (Before Day 1):** Bulk items plus perishables for Phase 1 (Days 1–3).
   - **Mid-Scrub Order (End of Day 3/Early Day 4):** Fresh perishables for Phase 2 (Days 4–7).
   - **Phase 3 Order (Transition to Day 8):** Fresh perishables for Phase 3 (Days 8–17).
+
 - **Fresh vs. Frozen:**  
   - Purchase fresh produce for items consumed raw (leafy greens, cucumbers, fruits, etc.).  
   - Use frozen vegetables (e.g., broccoli, cauliflower) for cooked dishes if preferred.
