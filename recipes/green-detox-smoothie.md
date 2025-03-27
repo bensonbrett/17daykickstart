@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Green Detox Smoothie Recipe"
+---
+
 # Green Detox Smoothie Recipe
 
 ## Ingredients
