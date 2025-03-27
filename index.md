@@ -5,6 +5,8 @@
 
 Special thanks to **Dr. Mike Moreno** for his pioneering work on the Kickstart Diet. His book, [*The 17 Day Kick-Start Diet*](https://www.amazon.com/dp/B08VJKWGK3), is the source of inspiration for this guide. This guide should be used as a companion and planning tool to supplement his book. Be sure to grab his book for more insights on healthy living!
 
+**Disclaimer:** All credit for the original ideas and content related to the Kickstart Diet belongs to Dr. Mike Moreno. The interpretations, analysis, and views expressed in this guide are solely those of the author of this document and have not been reviewed, endorsed, or approved by Dr. Mike Moreno or his representatives. Use this guide at your own risk.
+
 ## Overview
 This manual provides a complete 17-day plan for the Kickstart Diet with Mexican-inspired flavors. It is organized chronologically with clear instructions on when to order groceries (bulk and perishables) and includes detailed portion sizes (in grams) plus sample nutritional “labels” for each meal. Use this guide to easily log your meals in Samsung Health and to ensure you keep ingredients fresh.
 
