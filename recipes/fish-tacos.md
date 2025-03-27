@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Fish Tacos (Lettus Wrap Style) Recipe"
+---
+
 # Fish Tacos (Lettuce Wrap Style) Recipe
 
 ## Ingredients
@@ -23,7 +28,7 @@
 ## Sample Nutritional Information (per serving)
 
 | Nutrient      | Amount    |
-| ------------  | --------- |
+|-------------  |---------- |
 | Calories      | ~350 kcal |
 | Protein       | ~25 g     |
 | Carbohydrates | ~30 g     |
