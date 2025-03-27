@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Mexican Stuffed Pepper Recipe"
+---
+
 # Mexican-Style Stuffed Peppers Recipe
 
 ## Ingredients
@@ -23,6 +28,7 @@
 - Approximately 350 g per serving
 
 ## Sample Nutritional Information (per serving)
+
 | Nutrient      | Amount     |
 | ------------- | ---------- |
 | Calories      | ~400 kcal  |
