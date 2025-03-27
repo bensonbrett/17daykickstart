@@ -71,102 +71,29 @@ This manual provides a complete 17-day plan for the Kickstart Diet with Mexican-
 
 ---
 
-### **Phase 1: 3-Day “Scrub” (Days 1–3)**
-*Focus: Detox with low-sugar and nutriet dense foods.*
+## Phase 1: 3-Day “Scrub” (Days 1–3)
+*Focus: Detox with low-sugar and nutrient-dense foods.*
 
 #### Daily Menu (Repeat Each Day)
 
-1. **Breakfast – Green Detox Smoothie**
-   - **Ingredients:** Spinach, kale, green apple, lemon juice, ginger, unsweetened flax/hemp milk
+1. **Breakfast – [Green Detox Smoothie Recipe](recipes/green-detox-smoothie.md)**
    - **Portion Size:** ~350 g total
-   - **Sample Nutrition Information:**
-
-     | Nutrient         | Amount    |
-     |------------------|-----------|
-     | Calories         | ~250 kcal |
-     | Protein          | ~6 g      |
-     | Carbohydrates    | ~45 g     |
-     | &nbsp;&nbsp;Sugars| ~15 g     |
-     | Fat              | ~8 g      |
-     | Fiber            | ~7 g      |
-     | Vitamin A        | ~3500 IU  |
-     | Vitamin C        | ~60 mg    |
-     | Calcium          | ~250 mg   |
-     | Iron             | ~2 mg     |
-
 2. **Mid-Morning Snack – Mixed Berries**
    - **Portion Size:** ~150 g
-   - **Sample Nutrition Information:**
-
-     | Nutrient         | Amount    |
-     |------------------|-----------|
-     | Calories         | ~80 kcal  |
-     | Protein          | ~1 g      |
-     | Carbohydrates    | ~20 g     |
-     | Sugars           | ~15 g     |
-     | Fat              | ~0.5 g    |
-     | Fiber            | ~4 g      |
-     | Vitamin C        | ~25 mg    |
-     | Calcium          | ~20 mg    |
-     | Iron             | ~0.5 mg   |
-
 3. **Lunch – Mixed Greens Salad**
-   - **Ingredients:** Arugula, romaine, dandelion greens, shredded carrots, thin beet slices, avocado; dressed with olive oil, lemon juice, a pinch of turmeric, and black pepper.
-   - **Portion Size:** ~300 g
-   - **Sample Nutrition Information:**
-
-     | Nutrient         | Amount    |
-     |------------------|-----------|
-     | Calories         | ~200 kcal |
-     | Protein          | ~5 g      |
-     | Carbohydrates    | ~25 g     |
-     | Sugars           | ~8 g      |
-     | Fat              | ~12 g     |
-     | Fiber            | ~6 g      |
-     | Vitamin A        | ~4000 IU  |
-     | Vitamin C        | ~45 mg    |
-     | Calcium          | ~150 mg   |
-     | Iron             | ~1.5 mg   |
-
+   - **Portion Size:** ~300 g  
+     *(Basic salad instructions provided in this manual.)*
 4. **Afternoon Snack – Cucumber & Jicama Sticks**
    - **Portion Size:** ~200 g
-   - **Sample Nutrition Information:**
-
-     | Nutrient         | Amount    |
-     |------------------|-----------|
-     | Calories         | ~70 kcal  |
-     | Protein          | ~2 g      |
-     | Carbohydrates    | ~16 g     |
-     | Sugars           | ~8 g      |
-     | Fat              | ~0.5 g    |
-     | Fiber            | ~4 g      |
-     | Vitamin C        | ~15 mg    |
-     | Calcium          | ~30 mg    |
-     | Iron             | ~0.5 mg   |
-
-5. **Dinner – Steamed Wild Salmon with Veggies**
+5. **Dinner – [Steamed Wild Salmon with Veggies Recipe](#)*
    - **Ingredients:** 250 g wild salmon, 200 g broccoli & cauliflower (fresh or frozen)
    - **Portion Size:** ~450 g total
-   - **Sample Nutrition Information:**
-
-     | Nutrient         | Amount      |
-     |------------------|-------------|
-     | Calories         | ~450 kcal   |
-     | Protein          | ~35 g       |
-     | Carbohydrates    | ~25 g       |
-     | Fat              | ~20 g       |
-     | Fiber            | ~8 g        |
-     | Omega-3s         | Significant |
-     | Vitamin D        | ~10 µg      |
-     | Vitamin B12      | ~4 µg       |
-     | Calcium          | ~100 mg     |
-     | Iron             | ~1.5 mg     |
 
 *Follow these meals for Days 1–3 using your Pre-Scrub Order ingredients.*
 
 ---
 
-### **Mid-Scrub / Transition (End of Day 3 / Early Day 4)**
+## Mid-Scrub / Transition (End of Day 3 / Early Day 4)
 **Goal:** Order fresh perishables for Phase 2 (Days 4–7).
 
 #### Perishables for Phase 2
@@ -184,91 +111,27 @@ This manual provides a complete 17-day plan for the Kickstart Diet with Mexican-
 
 ---
 
-### **Phase 2: 4-Day “Soak” (Days 4–7)**
-*Focus: Introduce more variety while maintaining nutrtional goals.*
+## Phase 2: 4-Day “Soak” (Days 4–7)
+*Focus: Introduce more variety while maintaining nutritional goals.*
 
 #### Daily Menu (Repeat Each Day)
 
-1. **Breakfast – Veggie Omelet**
-   - **Ingredients:** Free‑range eggs, spinach, diced tomatoes, onions, garlic; seasoned with cumin. Served with fresh grapefruit.
+1. **Breakfast – [Mexican Egg Scramble Recipe](recipes/mexican-egg-scramble.md)**
    - **Portion Size:** ~250 g total
-   - **Sample Nutrition Information:**
-
-     | Nutrient         | Amount    |
-     |------------------|-----------|
-     | Calories         | ~300 kcal |
-     | Protein          | ~18 g     |
-     | Carbohydrates    | ~15 g     |
-     | Fat              | ~18 g     |
-     | Fiber            | ~4 g      |
-     | Vitamin A        | ~2000 IU  |
-     | Vitamin C        | ~30 mg    |
-     | Calcium          | ~150 mg   |
-     | Iron             | ~2 mg     |
-
 2. **Mid-Morning Snack – Fresh Berries + Walnuts**
    - **Portion Size:** 150 g berries + 30 g walnuts
-   - **Sample Nutrition Information:**
-
-     | Nutrient         | Amount     |
-     |------------------|------------|
-     | Calories         | ~250 kcal  |
-     | Protein          | ~4 g       |
-     | Carbohydrates    | ~20 g      |
-     | Fat              | ~18 g      |
-     | Fiber            | ~5 g       |
-
-3. **Lunch – Mexican-Inspired Quinoa & Black Bean Salad**
-   - **Ingredients:** Quinoa, black beans, chopped bell peppers, corn kernels, red onion, avocado; dressed with lime juice, olive oil, and chili powder.
+3. **Lunch – [Mexican-Inspired Quinoa & Black Bean Salad Recipe](recipes/mexican-inspired-quinoa-black-bean-salad.md)**
    - **Portion Size:** ~350 g total
-   - **Sample Nutrition Information:**
-
-     | Nutrient         | Amount    |
-     |------------------|-----------|
-     | Calories         | ~400 kcal |
-     | Protein          | ~12 g     |
-     | Carbohydrates    | ~60 g     |
-     | Fat              | ~10 g     |
-     | Fiber            | ~12 g     |
-     | Vitamin C        | ~50 mg    |
-     | Calcium          | ~80 mg    |
-     | Iron             | ~3 mg     |
-
 4. **Afternoon Snack – Carrot or Jicama Sticks**
    - **Portion Size:** ~150 g
-   - **Sample Nutrition Information:**
-
-     | Nutrient         | Amount    |
-     |------------------|-----------|
-     | Calories         | ~70 kcal  |
-     | Protein          | ~2 g      |
-     | Carbohydrates    | ~16 g     |
-     | Fat              | ~0.5 g    |
-     | Fiber            | ~4 g      |
-     | Vitamin C        | ~15 mg    |
-     | Calcium          | ~25 mg    |
-
-5. **Dinner – Grilled Chicken (or Fish) with Fresh Salsa**
-   - **Ingredients:** 200 g chicken (or fish) plus 150 g mixed greens & veggies, topped with salsa (diced tomatoes, avocado, red onion, cilantro, lime juice)
+5. **Dinner – [Grilled Chicken with Fresh Salsa Recipe](recipes/grilled-chicken-salsa.md)**
    - **Portion Size:** ~350 g total
-   - **Sample Nutrition Information:**
-
-     | Nutrient         | Amount    |
-     |------------------|-----------|
-     | Calories         | ~400 kcal |
-     | Protein          | ~30 g     |
-     | Carbohydrates    | ~20 g     |
-     | Fat              | ~15 g     |
-     | Fiber            | ~6 g      |
-     | Vitamin C        | ~40 mg    |
-     | Calcium          | ~80 mg    |
-     | Iron             | ~2 mg     |
 
 *Follow these meals for Days 4–7 using the Phase 2 perishables.*
 
 ---
 
-### **Phase 3 Order (Transition to Day 8)**
+## Phase 3 Order (Transition to Day 8)
 **Goal:** Order fresh perishables for the expanded Phase 3 menu (Days 8–17).
 
 #### Perishables for Phase 3
@@ -291,148 +154,37 @@ This manual provides a complete 17-day plan for the Kickstart Diet with Mexican-
 
 ---
 
-### **Phase 3: 10-Day “Stabilize” (Days 8–17)**
+## Phase 3: 10-Day “Stabilize” (Days 8–17)
 *Focus: Expanded, sustainable menu with a variety of proteins and produce.*
 
 #### Daily Menu Options
 
 **Breakfast Options:**
-
-1. **Mexican Egg Scramble**
-   - **Ingredients:** Scrambled eggs with diced tomatoes, spinach, and onions; seasoned with chili powder and cumin; served with a whole wheat tortilla or sprouted toast.
-   - **Portion Size:** ~250 g total
-   - **Sample Nutrition Information:**
-
-     | Nutrient         | Amount    |
-     |------------------|-----------|
-     | Calories         | ~350 kcal |
-     | Protein          | ~20 g     |
-     | Carbohydrates    | ~25 g     |
-     | Fat              | ~18 g     |
-     | Fiber            | ~4 g      |
-     | Vitamin A        | ~1500 IU  |
-     | Vitamin C        | ~35 mg    |
-     | Calcium          | ~120 mg   |
-     | Iron             | ~2 mg     |
-
-2. **Greek Yogurt Bowl**
-   - **Ingredients:** Plain unsweetened Greek yogurt topped with blueberries, a drizzle of organic honey, and a sprinkle of ground flaxseed.
-   - **Portion Size:** ~200 g yogurt + 50 g toppings
-   - **Sample Nutrition Information:**
-
-     | Nutrient         | Amount    |
-     |------------------|-----------|
-     | Calories         | ~300 kcal |
-     | Protein          | ~15 g     |
-     | Carbohydrates    | ~35 g     |
-     | Fat              | ~5 g      |
-     | Fiber            | ~4 g      |
-     | Calcium          | ~200 mg   |
-     | Vitamin C        | ~10 mg    |
+- **[Mexican Egg Scramble Recipe](recipes/mexican-egg-scramble.md)**
+  - **Portion Size:** ~250 g total
+- **[Greek Yogurt Bowl Recipe](#)*
+  - **Portion Size:** ~200 g yogurt + 50 g toppings
 
 **Morning Snack:**  
-- **Fruit or Almonds**
-  - **Portion Size:** ~150 g fruit or ~30 g almonds
-  - **Example (Fruit):**
-
-    | Nutrient         | Amount    |
-    |------------------|-----------|
-    | Calories         | ~80–100 kcal |
-    | Protein          | ~1 g      |
-    | Carbohydrates    | ~20 g     |
-    | Fat              | ~0.5 g    |
-    | Fiber            | ~3 g      |
-    | Vitamin C        | ~30 mg    |
+- Fruit or Almonds (≈150 g fruit or 30 g almonds)
 
 **Lunch Options:**
-
-1. **Fish Tacos (Lettuce Wrap Style)**
-   - **Ingredients:** Grilled white fish (cod or snapper) with avocado salsa and crunchy cabbage slaw wrapped in lettuce.
-   - **Portion Size:** ~300 g total
-   - **Sample Nutrition Information:**
-
-     | Nutrient         | Amount    |
-     |------------------|-----------|
-     | Calories         | ~350 kcal |
-     | Protein          | ~25 g     |
-     | Carbohydrates    | ~30 g     |
-     | Fat              | ~12 g     |
-     | Fiber            | ~6 g      |
-     | Vitamin C        | ~40 mg    |
-     | Calcium          | ~80 mg    |
-
-2. **Mexican Bean Soup**
-   - **Ingredients:** Black beans, tomatoes, onions, garlic, and spices.
-   - **Portion Size:** ~350 g total
-   - **Sample Nutrition Information:**
-
-     | Nutrient         | Amount    |
-     |------------------|-----------|
-     | Calories         | ~300 kcal |
-     | Protein          | ~15 g     |
-     | Carbohydrates    | ~45 g     |
-     | Fat              | ~6 g      |
-     | Fiber            | ~10 g     |
-     | Vitamin C        | ~30 mg    |
-     | Calcium          | ~60 mg    |
+- **[Fish Tacos (Lettuce Wrap Style) Recipe](recipes/fish-tacos.md)**
+  - **Portion Size:** ~300 g total
+- **[Mexican Bean Soup Recipe](recipes/mexican-bean-soup.md)**
+  - **Portion Size:** ~350 g total
 
 **Afternoon Snack:**  
-- **Veggie Sticks with Hummus**
-  - **Portion Size:** ~150 g total (vegetables + 30 g hummus)
-  - **Sample Nutrition Information:**
-
-    | Nutrient         | Amount    |
-    |------------------|-----------|
-    | Calories         | ~150 kcal |
-    | Protein          | ~4 g      |
-    | Carbohydrates    | ~20 g     |
-    | Fat              | ~7 g      |
-    | Fiber            | ~5 g      |
+- Veggie Sticks with Hummus (≈150 g total)
 
 **Dinner Options:**
-
-1. **Lean Beef/Turkey Fajitas**
-   - **Ingredients:** Sautéed lean beef or turkey strips with bell peppers and onions; served with a small portion of brown rice or in lettuce wraps.
-   - **Portion Size:** ~350 g total
-   - **Sample Nutrition Information:**
-
-     | Nutrient         | Amount    |
-     |------------------|-----------|
-     | Calories         | ~450 kcal |
-     | Protein          | ~35 g     |
-     | Carbohydrates    | ~40 g     |
-     | Fat              | ~15 g     |
-     | Fiber            | ~8 g      |
-     | Vitamin C        | ~45 mg    |
-     | Calcium          | ~90 mg    |
-
-2. **Mexican-Style Stuffed Peppers**
-   - **Ingredients:** Bell peppers stuffed with quinoa, black beans, tomatoes, onions, and spices; optionally topped with a light sprinkle of cheese.
-   - **Portion Size:** ~350 g total
-   - **Sample Nutrition Information:**
-
-     | Nutrient         | Amount    |
-     |------------------|-----------|
-     | Calories         | ~400 kcal |
-     | Protein          | ~15 g     |
-     | Carbohydrates    | ~55 g     |
-     | Fat              | ~10 g     |
-     | Fiber            | ~10 g     |
-     | Vitamin C        | ~50 mg    |
-     | Calcium          | ~100 mg   |
+- **[Lean Beef/Turkey Fajitas Recipe](#)*
+  - **Portion Size:** ~350 g total
+- **[Mexican-Style Stuffed Peppers Recipe](#)*
+  - **Portion Size:** ~350 g total
 
 **Evening Snack (Optional):**  
-- **Greek Yogurt or Fruit**
-  - **Portion Size:** ~150 g
-  - **Example (Yogurt):**
-
-    | Nutrient         | Amount    |
-    |------------------|-----------|
-    | Calories         | ~120 kcal |
-    | Protein          | ~10 g     |
-    | Carbohydrates    | ~15 g     |
-    | Fat              | ~3 g      |
-    | Fiber            | ~1 g      |
+- Greek Yogurt or Fruit (≈150 g)
 
 *Follow these meal options for Days 8–17 using your Phase 3 fresh order ingredients.*
 
@@ -467,12 +219,13 @@ To streamline your daily routine, follow this prepping schedule:
 
 *Following this schedule minimizes daily chopping and helps you save time throughout the 17 days.*
 
+---
+
 ## Final Notes
 - **Ordering Frequency:**
   - **Pre-Scrub Order (Before Day 1):** Bulk items plus perishables for Phase 1 (Days 1–3).
   - **Mid-Scrub Order (End of Day 3/Early Day 4):** Fresh perishables for Phase 2 (Days 4–7).
   - **Phase 3 Order (Transition to Day 8):** Fresh perishables for Phase 3 (Days 8–17).
-
 - **Fresh vs. Frozen:**  
   - Purchase fresh produce for items consumed raw (leafy greens, cucumbers, fruits, etc.).  
   - Use frozen vegetables (e.g., broccoli, cauliflower) for cooked dishes if preferred.
@@ -483,10 +236,8 @@ To streamline your daily routine, follow this prepping schedule:
   - Use the provided portion sizes (in grams) and nutrition tables as a template for logging each meal.
   - Adjust the nutrient values based on your actual ingredients or brands as needed.
 
-
 ---
 
 ## Credits & Acknowledgements
 
 Special thanks to **Dr. Mike Moreno** for his pioneering work on the Kickstart Diet. His book, [*The Day Kick-Start Diet*](https://www.amazon.com/dp/B08VJKWGK3), has been a major source of inspiration for this guide. Be sure to check it out on Amazon for more insights on healthy living!
-
