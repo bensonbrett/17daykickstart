@@ -453,4 +453,10 @@ This manual provides a complete 17-day plan for the Kickstart Diet with Mexican-
   - Use the provided portion sizes (in grams) and nutrition tables as a template for logging each meal.
   - Adjust the nutrient values based on your actual ingredients or brands as needed.
 
-*Happy cooking, logging, and best of luck on your 17-day journey to better health—with a tech-savvy approach to planning and nutrition tracking!*
+
+---
+
+## Credits & Acknowledgements
+
+Special thanks to **Dr. Mike Moreno** for his pioneering work on the Kickstart Diet. His book, [*The Day Kick-Start Diet*](https://www.amazon.com/dp/0316024601), has been a major source of inspiration for this guide. Be sure to check it out on Amazon for more insights on healthy living!
+
